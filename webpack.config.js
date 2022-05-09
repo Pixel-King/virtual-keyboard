@@ -8,7 +8,6 @@ module.exports = {
     path: path.resolve(__dirname, 'dist'),
     clean: true,
   },
-  // mode: 'development"',
   plugins: [
     new HtmlWebpackPlugin({
         title: 'Virtual-keyboard',
