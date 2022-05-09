@@ -311,7 +311,7 @@ function pushText(dataCode) {
 }
 
 
-function onKeyDown(event) {
+function Nazhatie(event) {
     event.preventDefault();
     const { repeat } = event;
     if (event.code == 'AltLeft' && (event.ctrlKey === true || event.metaKey === true)) {
@@ -350,7 +350,7 @@ function onKeyDown(event) {
         }
     }
 }
-function onKeyUp(event) {
+function Podniatie(event) {
     event.preventDefault();
     if (event.code === 'ShiftLeft' || event.code === 'ShiftRight') {
         if (keyboardParam.capsLock === false) {
@@ -367,7 +367,7 @@ function onKeyUp(event) {
         RemoveAnimClass(document.querySelector(`.${event.code}`));
     }
 }
-function onMouseDown(event) {
+function onMouseClick(event) {
     if (event.target.closest('.key')) {
         const dataCode = event.target.closest('.key').dataset.code;
         pushText(dataCode);
@@ -396,7 +396,7 @@ function onMouseDown(event) {
         }
     }
 }
-function onMouseUp(event) {
+function upMouseClick(event) {
     if (event.target.closest('.key')) {
         if (event.target.closest('.key').dataset.code === 'ShiftLeft' || event.target.closest('.key').dataset.code === 'ShiftRight') {
             RemoveAnimClass(event.target.closest('.key'));
@@ -432,9 +432,9 @@ function onClick(event) {
 }
 export {
     generatePage,
-    onKeyDown,
-    onKeyUp,
-    onMouseDown,
-    onMouseUp,
+    Nazhatie,
+    Podniatie,
+    onMouseClick,
+    upMouseClick,
     onClick
 };
