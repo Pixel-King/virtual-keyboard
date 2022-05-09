@@ -1,4 +1,4 @@
-import { KlavaClass,KlavaKey, KlavaPar, keyboardParam } from './BazaZn'
+import { KlavaClass, KlavaKey, KlavaPar, keyboardParam } from './BazaZn'
 
 function createP(str, container, classed) {
     const paragraf = document.createElement('p');

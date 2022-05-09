@@ -23,9 +23,5 @@ module.exports = {
         use: ['style-loader', 'css-loader'],
       },
     ],
-  },/* 
-  devServer: {
-    static: './dist',
-    port: 3333 ,
-  }, */
+  }
 };

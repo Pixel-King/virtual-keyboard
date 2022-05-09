@@ -32,13 +32,13 @@ const KlavaPar = {
             "caseDown": "1",
             "caseUp": "!",
             "caps": "1",
-            "capsUp":"!"
+            "capsUp": "!"
         },
         "ru": {
             "caseDown": "1",
             "caseUp": "!",
             "caps": "1",
-            "capsUp":"!"
+            "capsUp": "!"
         }
     },
     "Digit2": {
@@ -46,13 +46,13 @@ const KlavaPar = {
             "caseDown": "2",
             "caseUp": "@",
             "caps": "2",
-            "capsUp":"@"
+            "capsUp": "@"
         },
         "ru": {
             "caseDown": "2",
             "caseUp": "@",
             "caps": "2",
-            "capsUp":"@" 
+            "capsUp": "@"
         }
     },
     "Digit3": {
@@ -60,13 +60,13 @@ const KlavaPar = {
             "caseDown": "3",
             "caseUp": "#",
             "caps": "3",
-            "capsUp":"#"
+            "capsUp": "#"
         },
         "ru": {
             "caseDown": "3",
             "caseUp": "#",
             "caps": "3",
-            "capsUp":"#"
+            "capsUp": "#"
         }
     },
     "Digit4": {
@@ -74,13 +74,13 @@ const KlavaPar = {
             "caseDown": "4",
             "caseUp": "$",
             "caps": "4",
-            "capsUp":"$"
+            "capsUp": "$"
         },
         "ru": {
             "caseDown": "4",
             "caseUp": ";",
             "caps": "4",
-            "capsUp":";"
+            "capsUp": ";"
         }
     },
     "Digit5": {
@@ -88,13 +88,13 @@ const KlavaPar = {
             "caseDown": "5",
             "caseUp": "%",
             "caps": "5",
-            "capsUp":"%"
+            "capsUp": "%"
         },
         "ru": {
             "caseDown": "5",
             "caseUp": "%",
             "caps": "5",
-            "capsUp":"%"
+            "capsUp": "%"
         }
     },
     "Digit6": {
@@ -102,13 +102,13 @@ const KlavaPar = {
             "caseDown": "6",
             "caseUp": "^",
             "caps": "6",
-            "capsUp":"^"
+            "capsUp": "^"
         },
         "ru": {
             "caseDown": "6",
             "caseUp": ":",
             "caps": "6",
-            "capsUp":":"
+            "capsUp": ":"
         }
     },
     "Digit7": {
@@ -116,13 +116,13 @@ const KlavaPar = {
             "caseDown": "7",
             "caseUp": "&",
             "caps": "7",
-            "capsUp":"&"
+            "capsUp": "&"
         },
         "ru": {
             "caseDown": "7",
             "caseUp": "?",
             "caps": "7",
-            "capsUp":"?"
+            "capsUp": "?"
         }
     },
     "Digit8": {
@@ -130,13 +130,13 @@ const KlavaPar = {
             "caseDown": "8",
             "caseUp": "*",
             "caps": "8",
-            "capsUp":"*"
+            "capsUp": "*"
         },
         "ru": {
             "caseDown": "8",
             "caseUp": "*",
             "caps": "8",
-            "capsUp":"*" 
+            "capsUp": "*"
         }
     },
     "Digit9": {
@@ -144,13 +144,13 @@ const KlavaPar = {
             "caseDown": "9",
             "caseUp": "(",
             "caps": "9",
-            "capsUp":"("
+            "capsUp": "("
         },
         "ru": {
             "caseDown": "9",
             "caseUp": "(",
             "caps": "9",
-            "capsUp":"("
+            "capsUp": "("
         }
     },
     "Digit0": {
@@ -158,13 +158,13 @@ const KlavaPar = {
             "caseDown": "0",
             "caseUp": ")",
             "caps": "0",
-            "capsUp":")"
+            "capsUp": ")"
         },
         "ru": {
             "caseDown": "0",
             "caseUp": ")",
             "caps": "0",
-            "capsUp":")"
+            "capsUp": ")"
         }
     },
     "Minus": {
@@ -172,13 +172,13 @@ const KlavaPar = {
             "caseDown": "-",
             "caseUp": "_",
             "caps": "-",
-            "capsUp":"_"
+            "capsUp": "_"
         },
         "ru": {
             "caseDown": "-",
             "caseUp": "_",
             "caps": "-",
-            "capsUp":"_"
+            "capsUp": "_"
         }
     },
     "Equal": {
@@ -186,13 +186,13 @@ const KlavaPar = {
             "caseDown": "=",
             "caseUp": "+",
             "caps": "=",
-            "capsUp":"+"
+            "capsUp": "+"
         },
         "ru": {
             "caseDown": "=",
             "caseUp": "+",
             "caps": "=",
-            "capsUp":"+"
+            "capsUp": "+"
         }
     },
     "Backspace": {
@@ -200,13 +200,13 @@ const KlavaPar = {
             "caseDown": "Backspace",
             "caseUp": "Backspace",
             "caps": "Backspace",
-            "capsUp":"Backspace"
+            "capsUp": "Backspace"
         },
         "ru": {
             "caseDown": "Backspace",
             "caseUp": "Backspace",
             "caps": "Backspace",
-            "capsUp":"Backspace"
+            "capsUp": "Backspace"
         }
     },
     "Tab": {
@@ -214,13 +214,13 @@ const KlavaPar = {
             "caseDown": "Tab",
             "caseUp": "Tab",
             "caps": "Tab",
-            "capsUp":"Tab"
+            "capsUp": "Tab"
         },
         "ru": {
             "caseDown": "Tab",
             "caseUp": "Tab",
             "caps": "Tab",
-            "capsUp":"Tab"
+            "capsUp": "Tab"
         }
     },
     "KeyQ": {
@@ -228,13 +228,13 @@ const KlavaPar = {
             "caseDown": "q",
             "caseUp": "Q",
             "caps": "Q",
-            "capsUp":"Q"
+            "capsUp": "Q"
         },
         "ru": {
             "caseDown": "й",
             "caseUp": "Й",
             "caps": "Й",
-            "capsUp":"Й"
+            "capsUp": "Й"
         }
     },
     "KeyW": {
@@ -242,13 +242,13 @@ const KlavaPar = {
             "caseDown": "w",
             "caseUp": "W",
             "caps": "W",
-            "capsUp":"W"
+            "capsUp": "W"
         },
         "ru": {
             "caseDown": "ц",
             "caseUp": "Ц",
             "caps": "Ц",
-            "capsUp":"Ц"
+            "capsUp": "Ц"
         }
     },
     "KeyE": {
@@ -256,13 +256,13 @@ const KlavaPar = {
             "caseDown": "e",
             "caseUp": "E",
             "caps": "E",
-            "capsUp":"E"
+            "capsUp": "E"
         },
         "ru": {
             "caseDown": "у",
             "caseUp": "У",
             "caps": "У",
-            "capsUp":"У"
+            "capsUp": "У"
         }
     },
     "KeyR": {
@@ -270,13 +270,13 @@ const KlavaPar = {
             "caseDown": "r",
             "caseUp": "R",
             "caps": "R",
-            "capsUp":"R"
+            "capsUp": "R"
         },
         "ru": {
             "caseDown": "к",
             "caseUp": "К",
             "caps": "К",
-            "capsUp":"K"
+            "capsUp": "K"
         }
     },
     "KeyT": {
@@ -284,13 +284,13 @@ const KlavaPar = {
             "caseDown": "t",
             "caseUp": "T",
             "caps": "T",
-            "capsUp":"T"
+            "capsUp": "T"
         },
         "ru": {
             "caseDown": "е",
             "caseUp": "Е",
             "caps": "Е",
-            "capsUp":"E"
+            "capsUp": "E"
         }
     },
     "KeyY": {
@@ -298,13 +298,13 @@ const KlavaPar = {
             "caseDown": "y",
             "caseUp": "Y",
             "caps": "Y",
-            "capsUp":"Y"
+            "capsUp": "Y"
         },
         "ru": {
             "caseDown": "н",
             "caseUp": "Н",
             "caps": "Н",
-            "capsUp":"H"
+            "capsUp": "H"
         }
     },
     "KeyU": {
@@ -312,13 +312,13 @@ const KlavaPar = {
             "caseDown": "u",
             "caseUp": "U",
             "caps": "U",
-            "capsUp":"U"
+            "capsUp": "U"
         },
         "ru": {
             "caseDown": "г",
             "caseUp": "Г",
             "caps": "Г",
-            "capsUp":"Г"
+            "capsUp": "Г"
         }
     },
     "KeyI": {
@@ -326,13 +326,13 @@ const KlavaPar = {
             "caseDown": "i",
             "caseUp": "I",
             "caps": "I",
-            "capsUp":"I"
+            "capsUp": "I"
         },
         "ru": {
             "caseDown": "ш",
             "caseUp": "Ш",
             "caps": "Ш",
-            "capsUp":"Ш"
+            "capsUp": "Ш"
         }
     },
     "KeyO": {
@@ -340,13 +340,13 @@ const KlavaPar = {
             "caseDown": "o",
             "caseUp": "O",
             "caps": "O",
-            "capsUp":"O"
+            "capsUp": "O"
         },
         "ru": {
             "caseDown": "щ",
             "caseUp": "Щ",
             "caps": "Щ",
-            "capsUp":"Щ"
+            "capsUp": "Щ"
         }
     },
     "KeyP": {
@@ -354,13 +354,13 @@ const KlavaPar = {
             "caseDown": "p",
             "caseUp": "P",
             "caps": "P",
-            "capsUp":"P"
+            "capsUp": "P"
         },
         "ru": {
             "caseDown": "з",
             "caseUp": "З",
             "caps": "З",
-            "capsUp":"3"
+            "capsUp": "3"
         }
     },
     "BracketLeft": {
@@ -368,13 +368,13 @@ const KlavaPar = {
             "caseDown": "[",
             "caseUp": "{",
             "caps": "[",
-            "capsUp":"["
+            "capsUp": "["
         },
         "ru": {
             "caseDown": "х",
             "caseUp": "Х",
             "caps": "Х",
-            "capsUp":"X"
+            "capsUp": "X"
         }
     },
     "BracketRight": {
@@ -382,13 +382,13 @@ const KlavaPar = {
             "caseDown": "]",
             "caseUp": "}",
             "caps": "]",
-            "capsUp":"]"
+            "capsUp": "]"
         },
         "ru": {
             "caseDown": "ъ",
             "caseUp": "Ъ",
             "caps": "Ъ",
-            "capsUp":"Ъ"
+            "capsUp": "Ъ"
         }
     },
     "Backslash": {
@@ -396,13 +396,13 @@ const KlavaPar = {
             "caseDown": "\\",
             "caseUp": "|",
             "caps": "\\",
-            "capsUp":"|"
+            "capsUp": "|"
         },
         "ru": {
             "caseDown": "\\",
             "caseUp": "/",
             "caps": "\\",
-            "capsUp":"/"
+            "capsUp": "/"
         }
     },
     "Delete": {
@@ -410,13 +410,13 @@ const KlavaPar = {
             "caseDown": "Del",
             "caseUp": "Del",
             "caps": "Del",
-            "capsUp":"Del"
+            "capsUp": "Del"
         },
         "ru": {
             "caseDown": "Del",
             "caseUp": "Del",
             "caps": "Del",
-            "capsUp":"Del"
+            "capsUp": "Del"
         }
     },
     "CapsLock": {
@@ -424,13 +424,13 @@ const KlavaPar = {
             "caseDown": "CapsLk",
             "caseUp": "CapsLk",
             "caps": "CapsLk",
-            "capsUp":"CapsLk"
+            "capsUp": "CapsLk"
         },
         "ru": {
             "caseDown": "CapsLk",
             "caseUp": "CapsLk",
             "caps": "CapsLk",
-            "capsUp":"CapsLk"
+            "capsUp": "CapsLk"
         }
     },
     "KeyA": {
@@ -438,13 +438,13 @@ const KlavaPar = {
             "caseDown": "a",
             "caseUp": "A",
             "caps": "A",
-            "capsUp":"A"
+            "capsUp": "A"
         },
         "ru": {
             "caseDown": "ф",
             "caseUp": "Ф",
             "caps": "Ф",
-            "capsUp":"Ф"
+            "capsUp": "Ф"
         }
     },
     "KeyS": {
@@ -452,13 +452,13 @@ const KlavaPar = {
             "caseDown": "s",
             "caseUp": "S",
             "caps": "S",
-            "capsUp":"S"
+            "capsUp": "S"
         },
         "ru": {
             "caseDown": "ы",
             "caseUp": "Ы",
             "caps": "Ы",
-            "capsUp":"Ы"
+            "capsUp": "Ы"
         }
     },
     "KeyD": {
@@ -466,13 +466,13 @@ const KlavaPar = {
             "caseDown": "d",
             "caseUp": "D",
             "caps": "D",
-            "capsUp":"D"
+            "capsUp": "D"
         },
         "ru": {
             "caseDown": "в",
             "caseUp": "В",
             "caps": "В",
-            "capsUp":"B"
+            "capsUp": "B"
         }
     },
     "KeyF": {
@@ -480,13 +480,13 @@ const KlavaPar = {
             "caseDown": "f",
             "caseUp": "F",
             "caps": "F",
-            "capsUp":"F"
+            "capsUp": "F"
         },
         "ru": {
             "caseDown": "а",
             "caseUp": "А",
             "caps": "А",
-            "capsUp":"A"
+            "capsUp": "A"
         }
     },
     "KeyG": {
@@ -494,13 +494,13 @@ const KlavaPar = {
             "caseDown": "g",
             "caseUp": "G",
             "caps": "G",
-            "capsUp":"G"
+            "capsUp": "G"
         },
         "ru": {
             "caseDown": "п",
             "caseUp": "П",
             "caps": "П",
-            "capsUp":"П"
+            "capsUp": "П"
         }
     },
     "KeyH": {
@@ -508,13 +508,13 @@ const KlavaPar = {
             "caseDown": "h",
             "caseUp": "H",
             "caps": "H",
-            "capsUp":"H"
+            "capsUp": "H"
         },
         "ru": {
             "caseDown": "р",
             "caseUp": "Р",
             "caps": "Р",
-            "capsUp":"P"
+            "capsUp": "P"
         }
     },
     "KeyJ": {
@@ -522,13 +522,13 @@ const KlavaPar = {
             "caseDown": "j",
             "caseUp": "J",
             "caps": "J",
-            "capsUp":"J"
+            "capsUp": "J"
         },
         "ru": {
             "caseDown": "о",
             "caseUp": "О",
             "caps": "О",
-            "capsUp":"O"
+            "capsUp": "O"
         }
     },
     "KeyK": {
@@ -536,13 +536,13 @@ const KlavaPar = {
             "caseDown": "k",
             "caseUp": "K",
             "caps": "K",
-            "capsUp":"K"
+            "capsUp": "K"
         },
         "ru": {
             "caseDown": "л",
             "caseUp": "Л",
             "caps": "Л",
-            "capsUp":"Л"
+            "capsUp": "Л"
         }
     },
     "KeyL": {
@@ -550,13 +550,13 @@ const KlavaPar = {
             "caseDown": "l",
             "caseUp": "L",
             "caps": "L",
-            "capsUp":"L"
+            "capsUp": "L"
         },
         "ru": {
             "caseDown": "д",
             "caseUp": "Д",
             "caps": "Д",
-            "capsUp":"Д"
+            "capsUp": "Д"
         }
     },
     "Semicolon": {
@@ -564,13 +564,13 @@ const KlavaPar = {
             "caseDown": ";",
             "caseUp": ":",
             "caps": ";",
-            "capsUp":":"
+            "capsUp": ":"
         },
         "ru": {
             "caseDown": "ж",
             "caseUp": "Ж",
             "caps": "Ж",
-            "capsUp":"Ж"
+            "capsUp": "Ж"
         }
     },
     "Quote": {
@@ -578,13 +578,13 @@ const KlavaPar = {
             "caseDown": "'",
             "caseUp": "\"",
             "caps": "'",
-            "capsUp":"'"
+            "capsUp": "'"
         },
         "ru": {
             "caseDown": "э",
             "caseUp": "Э",
             "caps": "Э",
-            "capsUp":"Э"
+            "capsUp": "Э"
         }
     },
     "Enter": {
@@ -592,13 +592,13 @@ const KlavaPar = {
             "caseDown": "Enter",
             "caseUp": "Enter",
             "caps": "Enter",
-            "capsUp":"Enter"
+            "capsUp": "Enter"
         },
         "ru": {
             "caseDown": "Enter",
             "caseUp": "Enter",
             "caps": "Enter",
-            "capsUp":"Enter"
+            "capsUp": "Enter"
         }
     },
     "ShiftLeft": {
@@ -606,13 +606,13 @@ const KlavaPar = {
             "caseDown": "Shift",
             "caseUp": "Shift",
             "caps": "Shift",
-            "capsUp":"Shift"
+            "capsUp": "Shift"
         },
         "ru": {
             "caseDown": "Shift",
             "caseUp": "Shift",
             "caps": "Shift",
-            "capsUp":"Shift"
+            "capsUp": "Shift"
         }
     },
     "KeyZ": {
@@ -620,13 +620,13 @@ const KlavaPar = {
             "caseDown": "z",
             "caseUp": "Z",
             "caps": "Z",
-            "capsUp":"Z"
+            "capsUp": "Z"
         },
         "ru": {
             "caseDown": "я",
             "caseUp": "Я",
             "caps": "Я",
-            "capsUp":"Я"
+            "capsUp": "Я"
         }
     },
     "KeyX": {
@@ -634,13 +634,13 @@ const KlavaPar = {
             "caseDown": "x",
             "caseUp": "X",
             "caps": "X",
-            "capsUp":"X"
+            "capsUp": "X"
         },
         "ru": {
             "caseDown": "ч",
             "caseUp": "Ч",
             "caps": "Ч",
-            "capsUp":"Ч"
+            "capsUp": "Ч"
         }
     },
     "KeyC": {
@@ -648,13 +648,13 @@ const KlavaPar = {
             "caseDown": "c",
             "caseUp": "C",
             "caps": "C",
-            "capsUp":"C"
+            "capsUp": "C"
         },
         "ru": {
             "caseDown": "с",
             "caseUp": "С",
             "caps": "С",
-            "capsUp":"C"
+            "capsUp": "C"
         }
     },
     "KeyV": {
@@ -662,13 +662,13 @@ const KlavaPar = {
             "caseDown": "v",
             "caseUp": "V",
             "caps": "V",
-            "capsUp":"V"
+            "capsUp": "V"
         },
         "ru": {
             "caseDown": "м",
             "caseUp": "М",
             "caps": "М",
-            "capsUp":"M"
+            "capsUp": "M"
         }
     },
     "KeyB": {
@@ -676,13 +676,13 @@ const KlavaPar = {
             "caseDown": "b",
             "caseUp": "B",
             "caps": "B",
-            "capsUp":"B"
+            "capsUp": "B"
         },
         "ru": {
             "caseDown": "и",
             "caseUp": "И",
             "caps": "И",
-            "capsUp":"И"
+            "capsUp": "И"
         }
     },
     "KeyN": {
@@ -690,13 +690,13 @@ const KlavaPar = {
             "caseDown": "n",
             "caseUp": "N",
             "caps": "N",
-            "capsUp":"N"
+            "capsUp": "N"
         },
         "ru": {
             "caseDown": "т",
             "caseUp": "Т",
             "caps": "Т",
-            "capsUp":"T"
+            "capsUp": "T"
         }
     },
     "KeyM": {
@@ -704,13 +704,13 @@ const KlavaPar = {
             "caseDown": "m",
             "caseUp": "M",
             "caps": "M",
-            "capsUp":"M"
+            "capsUp": "M"
         },
         "ru": {
             "caseDown": "ь",
             "caseUp": "Ь",
             "caps": "Ь",
-            "capsUp":"b"
+            "capsUp": "b"
         }
     },
     "Comma": {
@@ -718,13 +718,13 @@ const KlavaPar = {
             "caseDown": ",",
             "caseUp": "<",
             "caps": ",",
-            "capsUp":"<"
+            "capsUp": "<"
         },
         "ru": {
             "caseDown": "б",
             "caseUp": "Б",
             "caps": "Б",
-            "capsUp":"Б"
+            "capsUp": "Б"
         }
     },
     "Period": {
@@ -732,13 +732,13 @@ const KlavaPar = {
             "caseDown": ".",
             "caseUp": ">",
             "caps": ".",
-            "capsUp":">"
+            "capsUp": ">"
         },
         "ru": {
             "caseDown": "ю",
             "caseUp": "Ю",
             "caps": "Ю",
-            "capsUp":"Ю"
+            "capsUp": "Ю"
         }
     },
     "Slash": {
@@ -746,13 +746,13 @@ const KlavaPar = {
             "caseDown": "/",
             "caseUp": "?",
             "caps": "/",
-            "capsUp":"?"
+            "capsUp": "?"
         },
         "ru": {
             "caseDown": ".",
             "caseUp": ",",
             "caps": ".",
-            "capsUp":","
+            "capsUp": ","
         }
     },
     "ArrowUp": {
@@ -760,13 +760,13 @@ const KlavaPar = {
             "caseDown": "^",
             "caseUp": "^",
             "caps": "^",
-            "capsUp":"^"
+            "capsUp": "^"
         },
         "ru": {
             "caseDown": "^",
             "caseUp": "^",
             "caps": "^",
-            "capsUp":"^"
+            "capsUp": "^"
         }
     },
     "ShiftRight": {
@@ -774,13 +774,13 @@ const KlavaPar = {
             "caseDown": "Shift",
             "caseUp": "Shift",
             "caps": "Shift",
-            "capsUp":"Shift"
+            "capsUp": "Shift"
         },
         "ru": {
             "caseDown": "Shift",
             "caseUp": "Shift",
             "caps": "Shift",
-            "capsUp":"Shift"
+            "capsUp": "Shift"
         }
     },
     "ControlLeft": {
@@ -788,13 +788,13 @@ const KlavaPar = {
             "caseDown": "Ctrl",
             "caseUp": "Ctrl",
             "caps": "Ctrl",
-            "capsUp":"Ctrl"
+            "capsUp": "Ctrl"
         },
         "ru": {
             "caseDown": "Ctrl",
             "caseUp": "Ctrl",
             "caps": "Ctrl",
-            "capsUp":"Ctrl"
+            "capsUp": "Ctrl"
         }
     },
     "MetaLeft": {
@@ -802,13 +802,13 @@ const KlavaPar = {
             "caseDown": "Win",
             "caseUp": "Win",
             "caps": "Win",
-            "capsUp":"Win"
+            "capsUp": "Win"
         },
         "ru": {
             "caseDown": "Win",
             "caseUp": "Win",
             "caps": "Win",
-            "capsUp":"Win"
+            "capsUp": "Win"
         }
     },
     "AltLeft": {
@@ -816,13 +816,13 @@ const KlavaPar = {
             "caseDown": "Alt",
             "caseUp": "Alt",
             "caps": "Alt",
-            "capsUp":"Alt"
+            "capsUp": "Alt"
         },
         "ru": {
             "caseDown": "Alt",
             "caseUp": "Alt",
             "caps": "Alt",
-            "capsUp":"Alt"
+            "capsUp": "Alt"
         }
     },
     "Space": {
@@ -830,13 +830,13 @@ const KlavaPar = {
             "caseDown": "",
             "caseUp": "",
             "caps": "",
-            "capsUp":""
+            "capsUp": ""
         },
         "ru": {
             "caseDown": "",
             "caseUp": "",
             "caps": "",
-            "capsUp":""
+            "capsUp": ""
         }
     },
     "AltRight": {
@@ -844,13 +844,13 @@ const KlavaPar = {
             "caseDown": "Alt",
             "caseUp": "Alt",
             "caps": "Alt",
-            "capsUp":"Alt"
+            "capsUp": "Alt"
         },
         "ru": {
             "caseDown": "Alt",
             "caseUp": "Alt",
             "caps": "Alt",
-            "capsUp":"Alt"
+            "capsUp": "Alt"
         }
     },
     "ArrowLeft": {
@@ -858,13 +858,13 @@ const KlavaPar = {
             "caseDown": "<",
             "caseUp": "<",
             "caps": "<",
-            "capsUp":"<"
+            "capsUp": "<"
         },
         "ru": {
             "caseDown": "<",
             "caseUp": "<",
             "caps": "<",
-            "capsUp":"<"
+            "capsUp": "<"
         }
     },
     "ArrowDown": {
@@ -872,13 +872,13 @@ const KlavaPar = {
             "caseDown": "\\/",
             "caseUp": "\\/",
             "caps": "\\/",
-            "capsUp":"\\/"
+            "capsUp": "\\/"
         },
         "ru": {
             "caseDown": "\\/",
             "caseUp": "\\/",
             "caps": "\\/",
-            "capsUp":"\\/"
+            "capsUp": "\\/"
         }
     },
     "ArrowRight": {
@@ -886,13 +886,13 @@ const KlavaPar = {
             "caseDown": ">",
             "caseUp": ">",
             "caps": ">",
-            "capsUp":">"
+            "capsUp": ">"
         },
         "ru": {
             "caseDown": ">",
             "caseUp": ">",
             "caps": ">",
-            "capsUp":">"
+            "capsUp": ">"
         }
     },
     "ControlRight": {
@@ -900,13 +900,13 @@ const KlavaPar = {
             "caseDown": "Ctrl",
             "caseUp": "Ctrl",
             "caps": "Ctrl",
-            "capsUp":"Ctrl"
+            "capsUp": "Ctrl"
         },
         "ru": {
             "caseDown": "Ctrl",
             "caseUp": "Ctrl",
             "caps": "Ctrl",
-            "capsUp":"Ctrl"
+            "capsUp": "Ctrl"
         }
     }
 };
@@ -922,8 +922,8 @@ const keyboardParam = {
 };
 
 export {
-  KlavaClass,
-  KlavaKey,
-  KlavaPar,
-  keyboardParam
+    KlavaClass,
+    KlavaKey,
+    KlavaPar,
+    keyboardParam
 };

@@ -1,13 +1,16 @@
-.baza{
+.baza {
     margin: 10px auto;
 }
-.title{
+
+.title {
     text-align: center;
 }
-.body-text{
+
+.body-text {
     font-size: 30px;
     margin: 10px auto;
 }
+
 .textarea {
     display: block;
     width: 700px;
@@ -17,6 +20,7 @@
     font-size: 18px;
     color: #444444;
 }
+
 .keyboard {
     width: 704px;
     margin: 0 auto;
@@ -27,10 +31,12 @@
     border: 3px solid #222222;
     border-radius: 5px;
 }
-.hidden{
+
+.hidden {
     display: none;
 }
-.keyboard .row{
+
+.keyboard .row {
     display: flex;
     justify-content: space-between;
     clear: both;
@@ -38,7 +44,8 @@
     height: 40px;
     margin-bottom: 8px;
 }
-.keyboard .key{
+
+.keyboard .key {
     /* float: left; */
     width: 40px;
     height: 40px;
@@ -53,33 +60,43 @@
     user-select: none;
     transition: border-radius 0.3s, background-color 0.3s;
 }
-.keyboard .key:hover{
+
+.keyboard .key:hover {
     background-color: black;
 }
-.keyboard .Backspace, .keyboard .CapsLock, .keyboard .ShiftLeft {
+
+.keyboard .Backspace,
+.keyboard .CapsLock,
+.keyboard .ShiftLeft {
     width: 100px;
 }
 
-.keyboard .Enter, .keyboard .ShiftRight {
+.keyboard .Enter,
+.keyboard .ShiftRight {
     width: 86px;
 }
+
 .keyboard .Space {
     width: 330px;
 }
-@keyframes click{
-    from{
+
+@keyframes click {
+    from {
         border-radius: 3px;
         background: linear-gradient(45deg, black, transparent);
     }
+
     to {
         border-radius: 10px;
         background: black;
     }
 }
-.onclick{
-    animation: click 0.2s;   
+
+.onclick {
+    animation: click 0.2s;
 }
-.active{
+
+.active {
     border-radius: 10px;
     background: black;
 }
