@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "webpack",
+    "deploy": "gh-pages -d dist",
     "watch": "webpack --watch",
     "serve": "webpack serve --open"
   },
@@ -26,5 +27,8 @@
     "webpack": "^5.72.0",
     "webpack-cli": "^4.9.2",
     "webpack-dev-server": "^4.9.0"
+  },
+  "dependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
