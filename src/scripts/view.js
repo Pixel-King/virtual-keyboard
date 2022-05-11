@@ -107,9 +107,11 @@ function AddAnimClass(elem) {
     elem.style.backgroundColor = "#000";
 }
 function RemoveAnimClass(elem) {
+    if(elem !== null){
     elem.classList.remove("onclick");
     elem.style.borderRadius = "3px";
     elem.style.backgroundColor = "#444444";
+    }
 }
 // f change language
 function ctrlAlt() {
@@ -244,15 +246,18 @@ function pushText(dataCode) {
                 if (keyboardParam.cursorPosition > 0) {
                     keyboardParam.cursorPosition -= 1;
                     coordinatesCursor();
+                    console.log('indInStr',keyboardParam.currentPositionInString)
                 }
                 break;
             case "ArrowRight":
                 if (keyboardParam.cursorPosition < textArea.value.length) {
                     keyboardParam.cursorPosition += 1;
                     coordinatesCursor();
+                    console.log('cpos',keyboardParam.currentPositionInString)
                 }
                 break;
             case "ArrowUp":
+ 
                 countletterInString();
                 getIndexInString();
                 if (keyboardParam.letterInString[keyboardParam.indexInString - 1] !== undefined) {
@@ -274,22 +279,20 @@ function pushText(dataCode) {
             case "ArrowDown":
                 countletterInString();
                 getIndexInString();
-                if (keyboardParam.letterInString[keyboardParam.indexInString + 1] !== undefined) {
-                    const countLetterRight = keyboardParam.letterInString[keyboardParam.indexInString]
-                        - keyboardParam.currentPositionInString;
-                    const needLeft = keyboardParam.letterInString[keyboardParam.indexInString]
-                        - countLetterRight + 1;
+                if (keyboardParam.letterInString[keyboardParam.indexInString + 1] !== undefined) { 
+                    const countLetterRight = keyboardParam.letterInString[keyboardParam.indexInString]- keyboardParam.currentPositionInString; //
+                    
+                    const needLeft = keyboardParam.letterInString[keyboardParam.indexInString] - countLetterRight + 1;
                     if (keyboardParam.letterInString[keyboardParam.indexInString + 1] >= needLeft) {
                         keyboardParam.cursorPosition += needLeft + countLetterRight;
-                        coordinatesCursor();
+                        coordinatesCursor(); 
                     } else {
-                        keyboardParam.cursorPosition += keyboardParam.letterInString[keyboardParam.indexInString
-                            + 1] + countLetterRight + 1;
-                        coordinatesCursor();
+                        keyboardParam.cursorPosition += keyboardParam.letterInString[keyboardParam.indexInString+ 1] + countLetterRight + 1;
+                        coordinatesCursor(); 
                     }
                 } else {
                     keyboardParam.cursorPosition = textArea.value.length;
-                    coordinatesCursor();
+                    coordinatesCursor(); 
                 }
                 break;
             default:

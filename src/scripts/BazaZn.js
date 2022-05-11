@@ -909,10 +909,10 @@ const keyboardParam = {
     capsLock: false,
     language: localStorage.getItem('language') ? localStorage.getItem('language') : 'ENG',
     selectMouse: null,
-    cursorPosition: null,
-    letterInString: null,
-    indexInString: null,
-    currentPositionInString: null,
+    cursorPosition: null, // 
+    letterInString: null, // array с кол элементов в строке
+    indexInString: null, // строка в которой находится курсор 
+    currentPositionInString: null, // позиция курсора в строке 
 };
 
 export {
